@@ -147,12 +147,12 @@
     "description": "A visualization of programming algorithms",
     "githubUrl": "https://github.com/tyuXX/Visualized",
     "lastCommit": {
-      "hash": "df6b785f22fd955d725abaef53270813844f4ff8",
-      "message": "Remove redundant code",
-      "date": "2025-03-18 22:40:40 +0300",
-      "url": "https://github.com/tyuXX/Visualized/commit/df6b785f22fd955d725abaef53270813844f4ff8"
+      "hash": "797b1338a7fd91260f14c8de6fc9aa74cfe2e1f3",
+      "message": "Update translation.js",
+      "date": "2025-03-22 14:04:56 +0300",
+      "url": "https://github.com/tyuXX/Visualized/commit/797b1338a7fd91260f14c8de6fc9aa74cfe2e1f3"
     },
-    "lastUpdated": "2025-03-18 22:40:40 +0300",
+    "lastUpdated": "2025-03-22 14:04:56 +0300",
     "readme": "No README available"
   },
   {
