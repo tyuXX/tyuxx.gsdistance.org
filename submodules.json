@@ -193,5 +193,18 @@
     },
     "lastUpdated": "2024-12-16 22:05:37 +0300",
     "readme": "No README available"
+  },
+  {
+    "name": "DDCToolKit",
+    "description": "A site with lots of small tools that you may need",
+    "githubUrl": "https://github.com/tyuXX/DDCToolKit",
+    "lastCommit": {
+      "hash": "94b3e79f850bdca085331c7930405f6dea8f8797",
+      "message": "Init",
+      "date": "2025-03-23 11:47:53 +0300",
+      "url": "https://github.com/tyuXX/DDCToolKit/commit/94b3e79f850bdca085331c7930405f6dea8f8797"
+    },
+    "lastUpdated": "2025-03-23 11:47:53 +0300",
+    "readme": "# DDC Toolkit\n## A site with lots of small tools that you may need\nSuch as:\nBinary converter\nBase64 converter\nUnit converter\nSvg to PNG converter\nPassword generator\netc."
   }
 ]
