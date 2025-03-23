@@ -199,12 +199,12 @@
     "description": "A site with lots of small tools that you may need",
     "githubUrl": "https://github.com/tyuXX/DDCToolKit",
     "lastCommit": {
-      "hash": "5bbe7217b497d00902e43521c62c0c5be5bb6316",
-      "message": "Fix json location",
-      "date": "2025-03-23 12:03:10 +0300",
-      "url": "https://github.com/tyuXX/DDCToolKit/commit/5bbe7217b497d00902e43521c62c0c5be5bb6316"
+      "hash": "b3780e3842b5d1c3f63ff846d70dff824c8f5e0b",
+      "message": "Add HTML and JSON formatter tools and a Favicon",
+      "date": "2025-03-23 14:01:53 +0300",
+      "url": "https://github.com/tyuXX/DDCToolKit/commit/b3780e3842b5d1c3f63ff846d70dff824c8f5e0b"
     },
-    "lastUpdated": "2025-03-23 12:03:10 +0300",
+    "lastUpdated": "2025-03-23 14:01:53 +0300",
     "readme": "# DDC Toolkit\n## A site with lots of small tools that you may need\nSuch as:\nBinary converter\nBase64 converter\nUnit converter\nSvg to PNG converter\nPassword generator\netc."
   }
 ]
