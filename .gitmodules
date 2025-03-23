@@ -43,3 +43,6 @@
 [submodule "Mazeability"]
 	path = Mazeability
 	url = https://github.com/tyuXX/Mazeability.git
+[submodule "DDCToolKit"]
+	path = DDCToolKit
+	url = https://github.com/tyuXX/DDCToolKit.git
