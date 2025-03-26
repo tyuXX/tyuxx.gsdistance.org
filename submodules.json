@@ -199,12 +199,12 @@
     "description": "A site with lots of small tools that you may need",
     "githubUrl": "https://github.com/tyuXX/DDCToolKit",
     "lastCommit": {
-      "hash": "ded072b86d7ad65edb5ff1a3b2b19896ea9e1b19",
-      "message": "Add Unit Converter tool and update favicon links in existing tools",
-      "date": "2025-03-23 14:23:03 +0300",
-      "url": "https://github.com/tyuXX/DDCToolKit/commit/ded072b86d7ad65edb5ff1a3b2b19896ea9e1b19"
+      "hash": "5c1f236f484736f21e778c784d1c9d913ee74f05",
+      "message": "Add Hex Color PickerAdd Image ToolsAdd Pretty Printer (Remove Json Formatter)Add Markdown Preview (Link to separate project)Add Version labels",
+      "date": "2025-03-26 23:07:05 +0300",
+      "url": "https://github.com/tyuXX/DDCToolKit/commit/5c1f236f484736f21e778c784d1c9d913ee74f05"
     },
-    "lastUpdated": "2025-03-23 14:23:03 +0300",
+    "lastUpdated": "2025-03-26 23:07:05 +0300",
     "readme": "# DDC Toolkit\n## A site with lots of small tools that you may need\nSuch as:\nBinary converter\nBase64 converter\nUnit converter\nSvg to PNG converter\nPassword generator\netc."
   }
 ]
