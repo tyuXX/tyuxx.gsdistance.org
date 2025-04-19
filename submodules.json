@@ -17,12 +17,12 @@
     "description": "No description available",
     "githubUrl": "https://github.com/tyuXX/tyuLIB",
     "lastCommit": {
-      "hash": "899f561966020c9c298eac47b37aed1077554d9a",
-      "message": "Update",
-      "date": "2025-04-20 00:08:11 +0300",
-      "url": "https://github.com/tyuXX/tyuLIB/commit/899f561966020c9c298eac47b37aed1077554d9a"
+      "hash": "b2de5b20601f5a9e6d968c3aac5061c87670f194",
+      "message": "Enhance NamespacedSettings with Load and Get functions for improved settings management",
+      "date": "2025-04-20 01:58:12 +0300",
+      "url": "https://github.com/tyuXX/tyuLIB/commit/b2de5b20601f5a9e6d968c3aac5061c87670f194"
     },
-    "lastUpdated": "2025-04-20 00:08:11 +0300",
+    "lastUpdated": "2025-04-20 01:58:12 +0300",
     "readme": "No README available"
   },
   {
