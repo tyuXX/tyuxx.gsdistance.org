@@ -17,12 +17,12 @@
     "description": "No description available",
     "githubUrl": "https://github.com/tyuXX/tyuLIB",
     "lastCommit": {
-      "hash": "b2de5b20601f5a9e6d968c3aac5061c87670f194",
-      "message": "Enhance NamespacedSettings with Load and Get functions for improved settings management",
-      "date": "2025-04-20 01:58:12 +0300",
-      "url": "https://github.com/tyuXX/tyuLIB/commit/b2de5b20601f5a9e6d968c3aac5061c87670f194"
+      "hash": "d1ccd88936862cc01387982a30d8363719ce0d73",
+      "message": "Add newPageFromURL and removePage functions for enhanced page management",
+      "date": "2025-04-20 11:02:12 +0300",
+      "url": "https://github.com/tyuXX/tyuLIB/commit/d1ccd88936862cc01387982a30d8363719ce0d73"
     },
-    "lastUpdated": "2025-04-20 01:58:12 +0300",
+    "lastUpdated": "2025-04-20 11:02:12 +0300",
     "readme": "No README available"
   },
   {
