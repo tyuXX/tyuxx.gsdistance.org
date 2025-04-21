@@ -46,3 +46,6 @@
 [submodule "DDCToolKit"]
 	path = DDCToolKit
 	url = https://github.com/tyuXX/DDCToolKit.git
+[submodule "BarsReborn"]
+	path = BarsReborn
+	url = https://github.com/tyuXX/BarsReborn.git
