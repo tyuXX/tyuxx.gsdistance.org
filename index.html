@@ -3,26 +3,47 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="tyuXX's personal project portfolio on GsDistance - Explore web-based projects and applications" />
+    <meta
+      name="description"
+      content="tyuXX's personal project list on GsDistance - Explore web-based projects and applications"
+    />
     <meta name="theme-color" content="#121212" />
     <title>[tyuXX] | GsDistance</title>
     <link rel="stylesheet" href="files/style.css" />
-    <link rel="stylesheet" href="https://storage.gsdistance.org/store/icons/css/all.min.css" />
-    <link rel="stylesheet" href="MDRender/css/markdown.css">
+    <link
+      rel="stylesheet"
+      href="https://storage.gsdistance.org/store/icons/css/all.min.css"
+    />
+    <link rel="stylesheet" href="MDRender/css/markdown.css" />
     <script src="MDRender/js/renderer.js"></script>
+    <script src="files/theme.js" defer></script>
     <script src="files/favicon.js" defer></script>
   </head>
   <body>
     <header>
       <h1>[tyuXX]</h1>
-      <p class="subtitle">My web-based stuff on GsDistance.org</p>
+      <p class="subtitle" data-ddctranslate="desc">
+        My web-based stuff on GsDistance.org
+      </p>
+      <a href="./files/about.html" data-ddctranslate="about">About</a>
+      <select
+        id="language-select"
+        aria-label="Select language"
+        aria-live="polite"
+        aria-atomic="true"
+      >
+      </select>
     </header>
 
     <main>
       <section class="projects">
-        <h2>Stuff:</h2>
+        <h2 data-ddctranslate="stuff">Stuff:</h2>
         <div class="search-container">
-          <input type="text" id="project-search" placeholder="Search stuff..." />
+          <input
+            type="text"
+            id="project-search"
+            placeholder="Search stuff..."
+          />
           <i class="fas fa-search search-icon"></i>
         </div>
         <ul id="submodule-list" class="project-grid"></ul>
@@ -30,14 +51,27 @@
     </main>
 
     <footer>
-      <button id="theme-toggle" class="theme-toggle">
+      <button
+        id="theme-toggle"
+        class="theme-toggle"
+        aria-label="Toggle dark/light theme"
+        aria-pressed="false"
+      >
         <i class="fas fa-moon"></i>
-        <span>Toggle Theme</span>
+        <span data-ddctranslate="themeToggle">Toggle Theme</span>
       </button>
-      <p class="footer-text"> 2024 tyuXX. All rights reserved.</p>
-      <a href="http://github.com/tyuXX/tyuxx.gsdistance.org" class="footer-text" target="_blank">Github Repo</a>
+      <p class="footer-text" data-ddctranslate="footerText">
+        2024 tyuXX. All rights reserved.
+      </p>
+      <a
+        href="http://github.com/tyuXX/tyuxx.gsdistance.org"
+        class="footer-text"
+        target="_blank"
+        >Github Repo</a
+      >
     </footer>
 
-    <script src="files/script.js"></script>
+    <script src="files/script.js" defer></script>
+    <script type="module" src="files/translations.js" defer></script>
   </body>
 </html>

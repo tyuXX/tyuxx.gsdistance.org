@@ -6,41 +6,19 @@ const renderMarkdown = (markdownContent) => {
   return renderer.render(markdownContent);
 };
 
-// Theme handling
-const toggle = document.getElementById("theme-toggle");
-const moonIcon = toggle.querySelector("i");
-const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)");
-
-// Set initial theme based on system preference
-const setInitialTheme = () => {
-  if (localStorage.getItem("theme")) {
-    document.body.classList.toggle(
-      "light-theme",
-      localStorage.getItem("theme") === "light"
-    );
-    updateThemeIcon();
-  } else if (!prefersDarkScheme.matches) {
-    document.body.classList.add("light-theme");
-    updateThemeIcon();
-  }
-};
-
-const updateThemeIcon = () => {
-  const isLightTheme = document.body.classList.contains("light-theme");
-  moonIcon.className = isLightTheme ? "fas fa-sun" : "fas fa-moon";
-};
-
-toggle.addEventListener("click", () => {
-  document.body.classList.toggle("light-theme");
-  const isLight = document.body.classList.contains("light-theme");
-  localStorage.setItem("theme", isLight ? "light" : "dark");
-  updateThemeIcon();
-});
-
 // Project list and search functionality
 const projectList = document.getElementById("submodule-list");
 const searchInput = document.getElementById("project-search");
 let projects = [];
+
+// Debounce function to improve search performance
+const debounce = (func, delay) => {
+  let timeoutId = null;
+  return (...args) => {
+    if (timeoutId) clearTimeout(timeoutId);
+    timeoutId = setTimeout(() => { func(...args); }, delay);
+  };
+};
 
 const formatDate = (dateString) => {
   const date = new Date(dateString);
@@ -74,7 +52,7 @@ const createProjectCard = (project) => {
   header.className = "project-header";
   
   const nameLink = document.createElement("a");
-  nameLink.href = `viewer.html?render=${project.name}`; // Link to submodule
+  nameLink.href = `./${project.name}`; // Link to submodule
   nameLink.className = "project-name";
   nameLink.textContent = project.name;
   
@@ -166,9 +144,9 @@ const filterProjects = (searchTerm) => {
   });
 };
 
-searchInput.addEventListener("input", (e) => {
+searchInput.addEventListener("input", debounce((e) => {
   filterProjects(e.target.value);
-});
+}, 300));
 
 // Show loading state
 projectList.innerHTML = `
