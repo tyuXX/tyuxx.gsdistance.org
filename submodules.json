@@ -17,12 +17,12 @@
     "description": "No description available",
     "githubUrl": "https://github.com/tyuXX/tyuLIB",
     "lastCommit": {
-      "hash": "d3a1af0cc0770e50b8a86bd46d042077fbf501d3",
-      "message": "Merge branch 'main' of https://github.com/tyuXX/tyuLIB",
-      "date": "2025-04-20 22:20:12 +0300",
-      "url": "https://github.com/tyuXX/tyuLIB/commit/d3a1af0cc0770e50b8a86bd46d042077fbf501d3"
+      "hash": "6eac4f4ce88e3ecb8eb98a8f1b1feace70195555",
+      "message": "Add functionality to recover last active language from localStorage",
+      "date": "2025-04-21 20:36:56 +0300",
+      "url": "https://github.com/tyuXX/tyuLIB/commit/6eac4f4ce88e3ecb8eb98a8f1b1feace70195555"
     },
-    "lastUpdated": "2025-04-20 22:20:12 +0300",
+    "lastUpdated": "2025-04-21 20:36:56 +0300",
     "readme": "No README available"
   },
   {
