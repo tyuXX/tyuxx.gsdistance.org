@@ -49,3 +49,6 @@
 [submodule "BarsReborn"]
 	path = BarsReborn
 	url = https://github.com/tyuXX/BarsReborn.git
+[submodule "LeTest"]
+	path = LeTest
+	url = https://github.com/tyuXX/LeTest.git
