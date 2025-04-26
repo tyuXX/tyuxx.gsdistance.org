@@ -206,5 +206,18 @@
     },
     "lastUpdated": "2025-03-30 15:39:46 +0300",
     "readme": "# DDC Toolkit\n## A site with lots of small tools that you may need\nSuch as:\nBinary converter\nBase64 converter\nUnit converter\nSvg to PNG converter\nPassword generator\netc."
+  },
+  {
+    "name": "BarsReborn",
+    "description": "No description available",
+    "githubUrl": "https://github.com/tyuXX/BarsReborn",
+    "lastCommit": {
+      "hash": "d41f9855b9c63874d4c2adc49309a4e5fb2a4e6c",
+      "message": "Create versionscript.yml",
+      "date": "2025-04-20 21:57:38 +0300",
+      "url": "https://github.com/tyuXX/BarsReborn/commit/d41f9855b9c63874d4c2adc49309a4e5fb2a4e6c"
+    },
+    "lastUpdated": "2025-04-20 21:57:38 +0300",
+    "readme": "# Bars Reborn\n## Made by tyuXX"
   }
 ]
