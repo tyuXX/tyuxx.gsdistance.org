@@ -15,6 +15,7 @@
       href="https://storage.gsdistance.org/store/icons/css/all.min.css"
     />
     <link rel="stylesheet" href="MDRender/css/markdown.css" />
+    <link rel="shortcut icon" href="null.ico" type="image/x-icon">
     <script src="MDRender/js/renderer.js"></script>
     <script src="files/theme.js" defer></script>
     <script src="files/favicon.js" defer></script>
@@ -25,14 +26,15 @@
       <p class="subtitle" data-ddctranslate="desc">
         My web-based stuff on GsDistance.org
       </p>
-      <a href="./files/about.html" data-ddctranslate="about">About</a>
+      <a href="./files/about.html" data-ddctranslate="about" id="about-link"
+        >About</a
+      >
       <select
         id="language-select"
         aria-label="Select language"
         aria-live="polite"
         aria-atomic="true"
-      >
-      </select>
+      ></select>
     </header>
 
     <main>
@@ -71,7 +73,17 @@
       >
     </footer>
 
-    <script src="files/script.js" defer></script>
-    <script type="module" src="files/translations.js" defer></script>
+    <script src="tyuLIB/lib/ddcInjector/injector.js" type="module"></script>
+    <script defer async="false">
+      setTimeout(() => {
+        DDCInjector.injectScript("Main Script", "files/script.js");
+        DDCInjector.injectScript(
+          "Translations",
+          "files/translations.js",
+          false,
+          true
+        );
+      }, 10);
+    </script>
   </body>
 </html>

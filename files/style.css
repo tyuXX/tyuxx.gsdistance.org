@@ -311,6 +311,20 @@ footer {
   opacity: 0.7;
 }
 
+#about-link {
+  color: var(--text-dark);
+  background-color: var(--primary-color);
+  border: var(--primary-color) 4px solid;
+  border-radius: 10px;
+  display: inline-block;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.light-theme #about-link {
+  color: var(--text-light);
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
   header h1 {
