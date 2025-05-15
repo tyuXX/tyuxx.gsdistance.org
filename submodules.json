@@ -17,12 +17,12 @@
     "description": "No description available",
     "githubUrl": "https://github.com/tyuXX/tyuLIB",
     "lastCommit": {
-      "hash": "2b7b0f92233a1c4c2274a9fcfcc9798b7a5f0f18",
-      "message": "Fix?",
-      "date": "2025-05-15 16:05:50 +0300",
-      "url": "https://github.com/tyuXX/tyuLIB/commit/2b7b0f92233a1c4c2274a9fcfcc9798b7a5f0f18"
+      "hash": "c05315cec1709e8189b33542ab86bd9e681f5a5a",
+      "message": "Fix dictionary access in Language class to ensure correct key-value retrieval",
+      "date": "2025-05-15 17:01:02 +0300",
+      "url": "https://github.com/tyuXX/tyuLIB/commit/c05315cec1709e8189b33542ab86bd9e681f5a5a"
     },
-    "lastUpdated": "2025-05-15 16:05:50 +0300",
+    "lastUpdated": "2025-05-15 17:01:02 +0300",
     "readme": "No README available"
   },
   {
