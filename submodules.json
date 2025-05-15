@@ -4,12 +4,12 @@
     "description": "Web based game to pass time",
     "githubUrl": "https://github.com/tyuXX/KediRNG",
     "lastCommit": {
-      "hash": "ceb4a4342a2501e308c60f3bf84a411e0aa16d0f",
-      "message": "Update script.jsBugfix",
-      "date": "2024-12-16 00:27:54 +0300",
-      "url": "https://github.com/tyuXX/KediRNG/commit/ceb4a4342a2501e308c60f3bf84a411e0aa16d0f"
+      "hash": "1882e050bf9b35e2925a8ac93a622f119e8e3d88",
+      "message": "Update module injection & save integrationRemoves outdated version workflow and restructures script loading by standardizing configuration in autoinject data and leveraging CDN-based injector methods. Updates game state to integrate an external save library with version bump and exposes core game functions globally, alongside minor UI numeric formatting adjustments.",
+      "date": "2025-05-15 22:46:42 +0300",
+      "url": "https://github.com/tyuXX/KediRNG/commit/1882e050bf9b35e2925a8ac93a622f119e8e3d88"
     },
-    "lastUpdated": "2024-12-16 00:27:54 +0300",
+    "lastUpdated": "2025-05-15 22:46:42 +0300",
     "readme": "## KediRNG\r\n\r\n### A basic web based chance game.\r\n\r\n- Designed by OBX555\r\n- Programmed, styled and produced by tyuXX"
   },
   {
@@ -17,12 +17,12 @@
     "description": "No description available",
     "githubUrl": "https://github.com/tyuXX/tyuLIB",
     "lastCommit": {
-      "hash": "81dab7115331d2d058550c9d5193e590fd1fd4f6",
-      "message": "Fix page existence check in changePage function to ensure correct page switching",
-      "date": "2025-05-15 17:12:39 +0300",
-      "url": "https://github.com/tyuXX/tyuLIB/commit/81dab7115331d2d058550c9d5193e590fd1fd4f6"
+      "hash": "17e5dae25b227508e758d383e242d5a412a65412",
+      "message": "Update",
+      "date": "2025-05-15 22:33:47 +0300",
+      "url": "https://github.com/tyuXX/tyuLIB/commit/17e5dae25b227508e758d383e242d5a412a65412"
     },
-    "lastUpdated": "2025-05-15 17:12:39 +0300",
+    "lastUpdated": "2025-05-15 22:33:47 +0300",
     "readme": "No README available"
   },
   {
