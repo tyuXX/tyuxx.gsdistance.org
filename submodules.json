@@ -4,12 +4,12 @@
     "description": "Web based game to pass time",
     "githubUrl": "https://github.com/tyuXX/KediRNG",
     "lastCommit": {
-      "hash": "1882e050bf9b35e2925a8ac93a622f119e8e3d88",
-      "message": "Update module injection & save integrationRemoves outdated version workflow and restructures script loading by standardizing configuration in autoinject data and leveraging CDN-based injector methods. Updates game state to integrate an external save library with version bump and exposes core game functions globally, alongside minor UI numeric formatting adjustments.",
-      "date": "2025-05-15 22:46:42 +0300",
-      "url": "https://github.com/tyuXX/KediRNG/commit/1882e050bf9b35e2925a8ac93a622f119e8e3d88"
+      "hash": "3815db8bc802fdc03e06d0087b1073264e2649c5",
+      "message": "Update version fetching URLs to use 'versioning-master' branch",
+      "date": "2025-05-15 23:23:51 +0300",
+      "url": "https://github.com/tyuXX/KediRNG/commit/3815db8bc802fdc03e06d0087b1073264e2649c5"
     },
-    "lastUpdated": "2025-05-15 22:46:42 +0300",
+    "lastUpdated": "2025-05-15 23:23:51 +0300",
     "readme": "## KediRNG\r\n\r\n### A basic web based chance game.\r\n\r\n- Designed by OBX555\r\n- Programmed, styled and produced by tyuXX"
   },
   {
