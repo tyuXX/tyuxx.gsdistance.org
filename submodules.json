@@ -17,12 +17,12 @@
     "description": "No description available",
     "githubUrl": "https://github.com/tyuXX/tyuLIB",
     "lastCommit": {
-      "hash": "c05315cec1709e8189b33542ab86bd9e681f5a5a",
-      "message": "Fix dictionary access in Language class to ensure correct key-value retrieval",
-      "date": "2025-05-15 17:01:02 +0300",
-      "url": "https://github.com/tyuXX/tyuLIB/commit/c05315cec1709e8189b33542ab86bd9e681f5a5a"
+      "hash": "81dab7115331d2d058550c9d5193e590fd1fd4f6",
+      "message": "Fix page existence check in changePage function to ensure correct page switching",
+      "date": "2025-05-15 17:12:39 +0300",
+      "url": "https://github.com/tyuXX/tyuLIB/commit/81dab7115331d2d058550c9d5193e590fd1fd4f6"
     },
-    "lastUpdated": "2025-05-15 17:01:02 +0300",
+    "lastUpdated": "2025-05-15 17:12:39 +0300",
     "readme": "No README available"
   },
   {
