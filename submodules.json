@@ -17,12 +17,12 @@
     "description": "No description available",
     "githubUrl": "https://github.com/tyuXX/tyuLIB",
     "lastCommit": {
-      "hash": "17e5dae25b227508e758d383e242d5a412a65412",
-      "message": "Update",
-      "date": "2025-05-15 22:33:47 +0300",
-      "url": "https://github.com/tyuXX/tyuLIB/commit/17e5dae25b227508e758d383e242d5a412a65412"
+      "hash": "98e6d6b03d6b6f54c571e102b80ffca8563d0986",
+      "message": "Enhance PerformanceRecorder to manage RAF id for cancellation and improve state tracking during recording",
+      "date": "2025-05-16 22:07:02 +0300",
+      "url": "https://github.com/tyuXX/tyuLIB/commit/98e6d6b03d6b6f54c571e102b80ffca8563d0986"
     },
-    "lastUpdated": "2025-05-15 22:33:47 +0300",
+    "lastUpdated": "2025-05-16 22:07:02 +0300",
     "readme": "No README available"
   },
   {
