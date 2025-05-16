@@ -4,12 +4,12 @@
     "description": "Web based game to pass time",
     "githubUrl": "https://github.com/tyuXX/KediRNG",
     "lastCommit": {
-      "hash": "4a407c0088086e903c6a99933d69cf4f1c424b70",
-      "message": "Fix",
-      "date": "2025-05-16 07:47:26 +0300",
-      "url": "https://github.com/tyuXX/KediRNG/commit/4a407c0088086e903c6a99933d69cf4f1c424b70"
+      "hash": "bcdbb53a00b59cd0e3becb2f3c660a038daa9d36",
+      "message": "Refactor performance monitoring: integrate PerformanceRecorder and update script injection",
+      "date": "2025-05-16 22:21:46 +0300",
+      "url": "https://github.com/tyuXX/KediRNG/commit/bcdbb53a00b59cd0e3becb2f3c660a038daa9d36"
     },
-    "lastUpdated": "2025-05-16 07:47:26 +0300",
+    "lastUpdated": "2025-05-16 22:21:46 +0300",
     "readme": "## KediRNG\r\n\r\n### A basic web based chance game.\r\n\r\n- Designed by OBX555\r\n- Programmed, styled and produced by tyuXX"
   },
   {
