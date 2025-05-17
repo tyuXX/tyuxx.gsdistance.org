@@ -17,12 +17,12 @@
     "description": "No description available",
     "githubUrl": "https://github.com/tyuXX/tyuLIB",
     "lastCommit": {
-      "hash": "98e6d6b03d6b6f54c571e102b80ffca8563d0986",
-      "message": "Enhance PerformanceRecorder to manage RAF id for cancellation and improve state tracking during recording",
-      "date": "2025-05-16 22:07:02 +0300",
-      "url": "https://github.com/tyuXX/tyuLIB/commit/98e6d6b03d6b6f54c571e102b80ffca8563d0986"
+      "hash": "c580345f824927fd0ae5e4837af2955c3829ca3f",
+      "message": "Add test assertions for library correctness and precision in numbertest.html",
+      "date": "2025-05-17 21:53:50 +0300",
+      "url": "https://github.com/tyuXX/tyuLIB/commit/c580345f824927fd0ae5e4837af2955c3829ca3f"
     },
-    "lastUpdated": "2025-05-16 22:07:02 +0300",
+    "lastUpdated": "2025-05-17 21:53:50 +0300",
     "readme": "No README available"
   },
   {
