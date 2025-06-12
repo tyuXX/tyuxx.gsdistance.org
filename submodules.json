@@ -17,12 +17,12 @@
     "description": "No description available",
     "githubUrl": "https://github.com/tyuXX/tyuLIB",
     "lastCommit": {
-      "hash": "c580345f824927fd0ae5e4837af2955c3829ca3f",
-      "message": "Add test assertions for library correctness and precision in numbertest.html",
-      "date": "2025-05-17 21:53:50 +0300",
-      "url": "https://github.com/tyuXX/tyuLIB/commit/c580345f824927fd0ae5e4837af2955c3829ca3f"
+      "hash": "a28c8011a56a7bd0c16c8413b6c4089f0705a216",
+      "message": "Update versioning",
+      "date": "2025-06-12 18:23:05 +0300",
+      "url": "https://github.com/tyuXX/tyuLIB/commit/a28c8011a56a7bd0c16c8413b6c4089f0705a216"
     },
-    "lastUpdated": "2025-05-17 21:53:50 +0300",
+    "lastUpdated": "2025-06-12 18:23:05 +0300",
     "readme": "No README available"
   },
   {
