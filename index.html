@@ -15,7 +15,7 @@
       href="https://storage.gsdistance.org/store/icons/css/all.min.css"
     />
     <link rel="stylesheet" href="MDRender/css/markdown.css" />
-    <link rel="shortcut icon" href="null.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="null.ico" type="image/x-icon" />
     <script src="MDRender/js/renderer.js"></script>
     <script src="files/theme.js" defer></script>
     <script src="files/favicon.js" defer></script>
@@ -75,14 +75,17 @@
 
     <script src="tyuLIB/lib/ddcInjector/injector.js" type="module"></script>
     <script defer async="false">
-      setTimeout(() => {
-        DDCInjector.injectScript("Main Script", "files/script.js");
-        DDCInjector.injectScript(
-          "Translations",
-          "files/translations.js",
-          false,
-          true
-        );
+      let id = setInterval(() => {
+        if (DDCInjector) {
+          DDCInjector.injectScript("Main Script", "files/script.js");
+          DDCInjector.injectScript(
+            "Translations",
+            "files/translations.js",
+            false,
+            true
+          );
+          clearInterval(id);
+        }
       }, 10);
     </script>
   </body>
