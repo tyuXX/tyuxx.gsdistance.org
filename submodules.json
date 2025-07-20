@@ -4,12 +4,12 @@
     "description": "Web based game to pass time",
     "githubUrl": "https://github.com/tyuXX/KediRNG",
     "lastCommit": {
-      "hash": "2ffd745b86783df5eed454e19ecfaa93d4443e78",
-      "message": "Update roll function to use async for text rolling and improve variable declarations in backgroundRoll",
-      "date": "2025-05-18 12:44:48 +0300",
-      "url": "https://github.com/tyuXX/KediRNG/commit/2ffd745b86783df5eed454e19ecfaa93d4443e78"
+      "hash": "2e80dafcbf10c6ceb96e2daff6f4db4e0d29b072",
+      "message": "Code refactors",
+      "date": "2025-07-20 15:12:24 +0300",
+      "url": "https://github.com/tyuXX/KediRNG/commit/2e80dafcbf10c6ceb96e2daff6f4db4e0d29b072"
     },
-    "lastUpdated": "2025-05-18 12:44:48 +0300",
+    "lastUpdated": "2025-07-20 15:12:24 +0300",
     "readme": "## KediRNG\r\n\r\n### A basic web based chance game.\r\n\r\n- Designed by OBX555\r\n- Programmed, styled and produced by tyuXX"
   },
   {
