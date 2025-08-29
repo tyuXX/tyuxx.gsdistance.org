@@ -4,12 +4,12 @@
     "description": "Web based game to pass time",
     "githubUrl": "https://github.com/tyuXX/KediRNG",
     "lastCommit": {
-      "hash": "e6241dfb3b0d4e69f6f5ea92ae0c47c04e6e194e",
-      "message": "HOTFIX",
-      "date": "2025-07-20 15:19:12 +0300",
-      "url": "https://github.com/tyuXX/KediRNG/commit/e6241dfb3b0d4e69f6f5ea92ae0c47c04e6e194e"
+      "hash": "2a89e0959c7e0420569b27fee590a9c78620a7a6",
+      "message": "Fix roll and sell multipliers being n-1",
+      "date": "2025-08-29 20:11:46 +0300",
+      "url": "https://github.com/tyuXX/KediRNG/commit/2a89e0959c7e0420569b27fee590a9c78620a7a6"
     },
-    "lastUpdated": "2025-07-20 15:19:12 +0300",
+    "lastUpdated": "2025-08-29 20:11:46 +0300",
     "readme": "## KediRNG\r\n\r\n### A basic web based chance game.\r\n\r\n- Designed by OBX555\r\n- Programmed, styled and produced by tyuXX"
   },
   {
