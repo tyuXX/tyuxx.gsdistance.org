@@ -4,12 +4,12 @@
     "description": "Web based game to pass time",
     "githubUrl": "https://github.com/tyuXX/KediRNG",
     "lastCommit": {
-      "hash": "2a89e0959c7e0420569b27fee590a9c78620a7a6",
-      "message": "Fix roll and sell multipliers being n-1",
-      "date": "2025-08-29 20:11:46 +0300",
-      "url": "https://github.com/tyuXX/KediRNG/commit/2a89e0959c7e0420569b27fee590a9c78620a7a6"
+      "hash": "a6cf961d1d7794a5471285cee9e0a9818eb06040",
+      "message": "- Port number system to Break_Infinity.js to handle large numbers.- Achivements now boost income.- Rebirthing increases minimum grade and minimum rarity.- Fix reset not working- Some other bugfixes### Please report bugs on this update, it may be unstable",
+      "date": "2025-08-30 17:01:05 +0300",
+      "url": "https://github.com/tyuXX/KediRNG/commit/a6cf961d1d7794a5471285cee9e0a9818eb06040"
     },
-    "lastUpdated": "2025-08-29 20:11:46 +0300",
+    "lastUpdated": "2025-08-30 17:01:05 +0300",
     "readme": "## KediRNG\r\n\r\n### A basic web based chance game.\r\n\r\n- Designed by OBX555\r\n- Programmed, styled and produced by tyuXX"
   },
   {
