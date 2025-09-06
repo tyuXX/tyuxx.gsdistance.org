@@ -199,12 +199,12 @@
     "description": "A site with lots of small tools that you may need",
     "githubUrl": "https://github.com/tyuXX/DDCToolKit",
     "lastCommit": {
-      "hash": "d836441545bdfc6404d2c958878b862c1b360a78",
-      "message": "Add pinningUpdate Pretty Printer",
-      "date": "2025-03-30 15:39:46 +0300",
-      "url": "https://github.com/tyuXX/DDCToolKit/commit/d836441545bdfc6404d2c958878b862c1b360a78"
+      "hash": "1bb2721cb9bc6337fce4817fc7255a5acf6101d8",
+      "message": "Update logo locations and svgToPng tool",
+      "date": "2025-09-06 15:25:48 +0300",
+      "url": "https://github.com/tyuXX/DDCToolKit/commit/1bb2721cb9bc6337fce4817fc7255a5acf6101d8"
     },
-    "lastUpdated": "2025-03-30 15:39:46 +0300",
+    "lastUpdated": "2025-09-06 15:25:48 +0300",
     "readme": "# DDC Toolkit\n## A site with lots of small tools that you may need\nSuch as:\nBinary converter\nBase64 converter\nUnit converter\nSvg to PNG converter\nPassword generator\netc."
   },
   {
