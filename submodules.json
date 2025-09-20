@@ -186,13 +186,13 @@
     "description": "Very basic maze generation utility",
     "githubUrl": "https://github.com/tyuXX/Mazeability",
     "lastCommit": {
-      "hash": "7cd7feaf9d986afc516460322d6bcc96ae0c2960",
-      "message": "Large update",
-      "date": "2025-09-14 18:53:58 +0300",
-      "url": "https://github.com/tyuXX/Mazeability/commit/7cd7feaf9d986afc516460322d6bcc96ae0c2960"
+      "hash": "3505970db15e33ff764a05d165ed780b40840835",
+      "message": "Add memory efficient mode",
+      "date": "2025-09-18 18:04:56 +0300",
+      "url": "https://github.com/tyuXX/Mazeability/commit/3505970db15e33ff764a05d165ed780b40840835"
     },
-    "lastUpdated": "2025-09-14 18:53:58 +0300",
-    "readme": "# Made by [[tyuXX]](https://github.com/tyuXX)\n\n## License\n\n[MIT](https://choosealicense.com/licenses/mit/)\n\n## Mazeability\n\n- Simple maze generator\n- Size limit is your ram and your pc's life\n\n## How to use\n\nDo i even have to say this?\n\n## Future plans\n\n- Nein"
+    "lastUpdated": "2025-09-18 18:04:56 +0300",
+    "readme": "# Made by [[tyuXX]](https://github.com/tyuXX)\n\n## License\n\n[MIT](https://choosealicense.com/licenses/mit/)\n\n## Mazeability\n\n- Simple maze generator with two generation modes:\n  - **Standard Mode**: Faster but uses more memory\n  - **Memory-Efficient Mode**: Slower but can handle much larger mazes by using less memory\n- Wall optimization to reduce SVG size and improve rendering performance\n\n## How to use\n\nDo i even have to say this?\n\n## Future plans\n\n- Nein\n- Chez"
   },
   {
     "name": "DDCToolKit",
